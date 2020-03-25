@@ -3,7 +3,7 @@
 //
 
 /*
-* To compile, you will need to download the C++ Rest SDK - https://github.com/microsoft/cpprestsdk. When you compile the file, you will need to provide addition command line arguments like: -lboost_system -lcrypto -lssl -lcpprest. To do that, you will need to import the libraries in OMNET++:
+To compile, you will need to download the C++ Rest SDK - https://github.com/microsoft/cpprestsdk. When you compile the file, you will need to provide addition command line arguments like: -lboost_system -lcrypto -lssl -lcpprest. To do that, you will need to import the libraries in OMNET++:
 1.  In OMNET++, click on Project-> Properties-> Paths and Symbols- add the external library in the following: 
     1.1 includes
     1.2 Libraries
