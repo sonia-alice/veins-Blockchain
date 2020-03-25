@@ -9,4 +9,6 @@ To compile, you will need to download the C++ Rest SDK - https://github.com/micr
     1.2 Libraries
     1.3 Library Paths
 2.  Search for Makemake-> select the veins-src-> click on Options-> under Link tab -> add the Additional Libraries - boost_system, crypto, ssl, cpprest.
+
+You will also need to ensure that you have Crypto++ library installed - https://www.cryptopp.com/
 */
